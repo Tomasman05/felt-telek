@@ -1,6 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
         Osztas o = new Osztas();
-        o.osztas();
+        // o.osztas();
+        Betu.konvert();
     }
 }
