@@ -23,5 +23,6 @@ public class Betu {
         else{
             System.out.println("Ismeretlen szám");
         }
+        sc.close();
     }
 }
